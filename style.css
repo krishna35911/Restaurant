@@ -61,7 +61,7 @@ nav{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 2rem;
-    margin-top:71.3rem;
+    margin-top:71.5rem;
     border-radius: 2%;
     background-color:rgba(223, 203, 203, 0.5) ;
 }
@@ -154,7 +154,7 @@ nav{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 2rem;
-    margin-top:91rem;
+    margin-top:90.7rem;
     width: 100%;
     background-color:rgba(198, 214, 189, 0.5) ;
     padding: 50px;
